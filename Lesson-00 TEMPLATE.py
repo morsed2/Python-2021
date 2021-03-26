@@ -4,6 +4,12 @@
 # Filename:  		'Lesson-00 TEMPLATE.py'
 #
 #  $ cd "/c/Users/Nick/PycharmProjects/AA Python Programming 2021"      to get to the directory
+#
+#            Git push commands
+# git add .
+# git commit -am "SuitableText"
+# git push
+# <password, tavr>
 
 
 

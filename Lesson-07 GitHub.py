@@ -4,6 +4,16 @@
 # Filename:  		'Lesson-07 GitHub.py'
 #
 #  $ cd "/c/Users/Nick/PycharmProjects/AA Python Programming 2021"      to get to the directory
+#
+#            Git push commands
+# git add .
+# git commit -am "SuitableText"
+# git push
+# <password, tavr>
+
+
+
+
 
 # ======================================================================
 # A bit of text to prove that the GIT push has been done.
