@@ -1,11 +1,66 @@
 # name:				Python Version Control With Git and Github - #7
-# YouTube Link:		https://www.youtube.com/watch?v=yYknmU_gBgs&list=PLCC34OHNcOtrZTjsC5qtn_X9eRAmGmGOI&index=8
+# YouTube Link:		https://www.youtube.com/watch?v=yYknmU_gBgs&list=PLCC34OHNcOtrZTjsC5qtn_X9eRAmGmGOI&index=7
 #
 # Filename:  		'Lesson-07 GitHub.py'
 #
 #  $ cd "/c/Users/Nick/PycharmProjects/AA Python Programming 2021"      to get to the directory
 
+# ======================================================================
+# A bit of text to prove that the GIT push has been done.
+# On 2 lines! 
+# (actually a few more as I changed some below as well)
+# ======================================================================
 
+
+
+# Version contol using Git and GitHub
+
+# 2 different things:
+#		1/	Git
+#		2/	GitHub
+
+# The Git BASH terminal we installed in step 2 
+
+
+#		1/	Git
+#		2/	GitHub
+
+
+# ================= Setup =====================
+
+#	1/	Sign up for Git Hub
+#	2/	Get an SSH key
+#		create a hidden directory in
+#		/c/Users/Nick/PycharmProjects/AA Python Programming 2021
+#		called  .ssh   (. = hidden)
+#
+#		cd to   .ssh
+#		type    pwd
+#		type    ssh-keygen.exe
+#		
+#		
+
+# Generating public/private rsa key pair.
+# Enter file in which to save the key (/c/Users/Nick/.ssh/id_rsa):
+
+
+# -----------------------------------------------------------------------
+# Done only once
+# git remote add origin git@github.com:morsed2/Python-2021.git
+# git push -u origin master
+
+# -----------------------------------------------------------------------
+# Second and subsequent times
+# git add .
+
+# git commit -am "Added a few lines to Lesson-07"
+
+# git push
+
+# <password, tavr>
+
+
+# =========================================================================================
 
 full_name = 'Steve Morse'
 
