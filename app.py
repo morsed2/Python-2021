@@ -21,14 +21,32 @@ data_file =			'data.db'		# The actual database file
 #	36 minutes  
 #
 #
-#	A follow on project
+#================================================================================================
+#	Follow on projects:
 #
+#------------------------------------------------------------------------------------------------
 #		Python SQLite Tutorial: Complete Overview - Creating a Database, Table, and Running Queries
 #		https://www.youtube.com/watch?v=pd-0G0MigUA
 #
 #	Adds alternative INSERT's, UPDATES, and REMOVES
 #	30 minutes  
 #
+#									DONE
+#
+#------------------------------------------------------------------------------------------------
+#		Sqlite 3 Python Tutorial in 5 minutes - Creating Database, Tables and Querying [2020]
+#		https://www.youtube.com/watch?v=girsuXz0yA8
+#
+#	FOREIGN KEY with more than 1 table and some other ideas
+#	UPDATE
+#	6 minutes
+#
+#------------------------------------------------------------------------------------------------
+#		Learn to Program 19 Python SQLite Tutorial
+#		https://www.youtube.com/watch?v=yCA5Wzdkfag
+#
+#	Error handling, NOT NULL, DROP TABLE, DEFAULT, PRAGMA, COUNT(*), .rollback()
+#	22 minutes
 #
 # ------------------------------------------------------------------------------------------------------------
 #            Git push commands
@@ -65,7 +83,7 @@ Enter your selection, Please...:
 
 
 
-print("+++++++++++++++++++++++++ Why?")
+
 
 
 
